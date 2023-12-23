@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/MrSa3dola/MrSa3dola/output/snake.svg" alt="Snake animation" />
-
-###
