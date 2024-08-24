@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Saad Mohamed Saad from Egypt.<br><br>- I'm an AI student at the Faculty of Computers and Artificial Intelligence, at Cairo University.<br>- Problem-Solving Instructor ICPC FCAI CU Community<br>- I like searching and learning new things.<br>- ECPC finalist and specialist on Codeforces</p>
+<p align="left">I'm Saad Mohamed Saad from Egypt.<br><br>- I'm an AI student at the Faculty of Computers and Artificial Intelligence, at Cairo University.<br>- Problem-Solving Instructor ICPC FCAI CU Community<br>- I like searching and learning new things.<br>- ACPC finalist and Expert on Codeforces</p>
 
 ###
 
